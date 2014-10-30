@@ -1,0 +1,10 @@
+{
+    "name": "enormous/enormous",
+    "version": "1.0.2",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/chrift/enormous-php-client"
+        }
+    ]
+}
